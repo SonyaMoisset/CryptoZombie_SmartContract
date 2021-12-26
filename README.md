@@ -1,1 +1,1 @@
-# CryptoZombie_SmartContract
+# CryptoZombie SmartContract
